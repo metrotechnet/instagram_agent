@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+instagrapi
+moviepy
+openai
+chromadb
+tqdm
+python-multipart
+requests
+chromadb-client
